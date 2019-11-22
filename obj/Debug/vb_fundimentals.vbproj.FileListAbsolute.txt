@@ -1,0 +1,11 @@
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\bin\Debug\vb_fundimentals.exe.config
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\bin\Debug\vb_fundimentals.exe
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\bin\Debug\vb_fundimentals.pdb
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\bin\Debug\vb_fundimentals.xml
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\obj\Debug\vb_fundimentals.vbprojAssemblyReference.cache
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\obj\Debug\vb_fundimentals.Resources.resources
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\obj\Debug\vb_fundimentals.vbproj.GenerateResource.cache
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\obj\Debug\vb_fundimentals.vbproj.CoreCompileInputs.cache
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\obj\Debug\vb_fundimentals.exe
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\obj\Debug\vb_fundimentals.xml
+C:\Users\miloe\code\learning_vb_net\vb_fundimentals\obj\Debug\vb_fundimentals.pdb
