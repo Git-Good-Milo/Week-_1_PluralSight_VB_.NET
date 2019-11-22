@@ -38,6 +38,7 @@
         Console.WriteLine(SellDate.Day)
         Console.WriteLine(SellDate.DayOfWeek)
         Console.WriteLine(SellDate.Hour)
+        Console.WriteLine(SellDate.Minute)
         Console.WriteLine(SellDate.Second)
 
     End Sub
