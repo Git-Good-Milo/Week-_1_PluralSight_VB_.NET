@@ -1,4 +1,8 @@
 ﻿Module ModuleOOPpractice02
+
+    ' This module contains some practice I have done on OOP
+    ' It covers some basic inbuilt methods fr string and decimal data types and howto use them.
+    ' All modules and classes are called in the in MainModule.vb
     Sub MainStringOOP()
         Dim Name As String = "10 Speed Bike"
 

@@ -69,6 +69,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Product02.vb" />
+    <Compile Include="Product.vb" />
     <Compile Include="ClassConstants.vb" />
     <Compile Include="MainModule.vb" />
     <Compile Include="MathModule.vb" />

@@ -10,7 +10,6 @@
         ModuleOOPpractice02.MainStringOOP()
         ModuleOOPpractice02.MainIntegerOOP()
         ModuleOOPpractice02.MainDateOOP()
-
         'Main1()
         'Main2()
         'MathModule.MainMath()
