@@ -12,7 +12,9 @@
 
 
         prod.SellStartDate = #1/1/2019#
-        ' Pass sellDate by Reference 
+        ' Pass sellDate by Reference
+        ' Its bad practice to pass things by refernce
+        'Avoid it if you can. Use Methods instead
         prod.CalculateSellEndDate(30, sellDate)
         Console.WriteLine(sellDate)
 
